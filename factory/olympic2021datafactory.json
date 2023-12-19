@@ -1,0 +1,9 @@
+{
+	"name": "olympic2021datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9ecda72-e97f-48c8-955b-6c98596bd739",
+		"tenantId": "2476a31f-10d8-4d1b-81b1-bec5e2a461b8"
+	}
+}
